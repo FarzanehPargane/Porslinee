@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uNmkS51hGTjTaFt00TuxNcz24OinZpdcUOWsUG6ONjaarp1ujjBYpwjt67Io+OtI6hQJ6I5EAiw8dS3yn2ZYlg==",
+  "dgSpecHash": "tn2Mu6ImzcocAtJDs5fU97dSqkneW1w8sJPtCtm2g8b9y0Gp1KRb7f+YK2fogYP1zRFyguh7Y4H92cktgXWESA==",
   "success": true,
-  "projectFilePath": "D:\\GitProject\\Porsline\\Porsline\\Porsline\\HSoft.Porsline.csproj",
+  "projectFilePath": "D:\\GitProject\\Porsline\\Porsline\\HSoft.Porsline.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zarin.h\\.nuget\\packages\\dapper\\2.1.11\\dapper.2.1.11.nupkg.sha512",
     "C:\\Users\\zarin.h\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
